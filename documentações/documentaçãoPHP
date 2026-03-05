@@ -1,0 +1,1 @@
+// <?php if(True): ?> Escapando do html <?php else:?> Outro escape <?php endif?>
